@@ -1,6 +1,6 @@
 # ContactForm
 
-- main page: index.php
+- main page: main.php
 - script for sending e-mails: send.php (change the e-mail address in the second row)
 
 ----
